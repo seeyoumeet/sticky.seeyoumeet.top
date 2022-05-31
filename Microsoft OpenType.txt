@@ -1,0 +1,3 @@
+Microsoft OpenType
+Apple TrueType
+MicroType Express(MTX)字体格式​
